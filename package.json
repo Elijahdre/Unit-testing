@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elijahdre/Unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elijahdre/Unit-testing/issues"
+  },
+  "homepage": "https://github.com/Elijahdre/Unit-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
